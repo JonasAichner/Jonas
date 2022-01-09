@@ -1,0 +1,33 @@
+body {
+background-color: black;
+text-align: center;
+}
+h1 {
+ width: 100%;
+ font-weight: lighter;
+ text-align: center;
+ font-size: 100px;
+ color: red;
+}
+h2 {
+ width: 100%;
+ font-weight: lighter;
+ text-align: center;
+ font-size: 30px;
+ color: blue;
+}
+
+h3 {
+ width: 100%;
+ font-weight: lighter;
+ text-align: center;
+ font-size: 20px;
+ color: red;
+}
+.container {				
+    min-width: 775px;	
+    display: flex;
+    flex-wrap: wrap;	
+    justify-content: center;			
+}
+.wait { cursor: wait;}
